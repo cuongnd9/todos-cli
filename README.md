@@ -1,6 +1,6 @@
 # todos-cli
 
-[![Build Status](https://travis-ci.org/cuongw/todos-cli.svg?branch=master)](https://travis-ci.org/cuongw/todos-cli)
+[![Build Status](https://travis-ci.com/cuongw/todos-cli.svg?token=BrDbfYWUGDSpbNJ4h6P1&branch=master)](https://travis-ci.com/cuongw/todos-cli)
 ![](https://img.shields.io/david/cuongw/todos-cli.svg?style=flat-square)
 ![](https://img.shields.io/github/license/cuongw/todos-cli.svg?style=flat-square)
 
