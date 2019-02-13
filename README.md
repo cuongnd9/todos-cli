@@ -18,6 +18,10 @@ Change directory `todos-cli` & allow execute script:
 ```
 $ cd todos-cli && chmod +x todos
 ```
+Run script anywhere
+```
+$ npm link
+```
 Install packages
 ```
 $ npm install
@@ -26,7 +30,7 @@ $ npm install
 ## Usage
 
 ```
-./todos <command>
+todos <command>
 
   commands can be:
 
