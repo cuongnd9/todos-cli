@@ -16,7 +16,7 @@ $ git clone https://github.com/cuongw/todos-cli.git
 ```
 Change directory `todos-cli` & allow execute script:
 ```
-$ cd todos-cli && chmod +x todos
+$ cd todos-cli && chmod +x index.js
 ```
 Run script anywhere
 ```
