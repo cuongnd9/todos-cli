@@ -5,6 +5,9 @@
 ![](https://img.shields.io/github/license/cuongw/todos-cli.svg?style=flat-square)
 
 > 🦉 Todos CLI with NodeJS.
+
+![todos-cli](https://user-images.githubusercontent.com/34389409/52708081-d88cb280-2fbb-11e9-8eb8-5e33efab3164.png)
+
 ## Installation
 
 Clone this project:
@@ -23,7 +26,7 @@ $ npm install
 ## Usage
 
 ```
-todos <command>
+./todos <command>
 
   commands can be:
 
