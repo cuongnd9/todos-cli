@@ -11,6 +11,14 @@
     {
       "title": "Learn Node",
       "complete": false
+    },
+    {
+      "title": "Learn Vue",
+      "complete": true
+    },
+    {
+      "title": "Learn Sails",
+      "complete": false
     }
   ]
 }
