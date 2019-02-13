@@ -6,7 +6,7 @@
 
 > 🦉 Todos CLI with NodeJS.
 
-![todos-cli](https://user-images.githubusercontent.com/34389409/52708081-d88cb280-2fbb-11e9-8eb8-5e33efab3164.png)
+![todos-cli](https://user-images.githubusercontent.com/34389409/52729190-4c927f00-2feb-11e9-8697-093cf8a6242a.gif)
 
 ## Installation
 
