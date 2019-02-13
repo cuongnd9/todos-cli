@@ -4,7 +4,7 @@
 ![](https://img.shields.io/david/cuongw/todos-cli.svg?style=flat-square)
 ![](https://img.shields.io/github/license/cuongw/todos-cli.svg?style=flat-square)
 
-> 🦉 todos-cli with javascript.
+> 🦉 Todos CLI with NodeJS.
 ## Installation
 
 Clone this project:
@@ -13,7 +13,7 @@ $ git clone https://github.com/cuongw/todos-cli.git
 ```
 Change directory `todos-cli` & allow execute script:
 ```
-$ cd todos-cli && chmod +x index.js
+$ cd todos-cli && chmod +x todos
 ```
 Install packages
 ```
@@ -23,7 +23,7 @@ $ npm install
 ## Usage
 
 ```
-todos-cli <command>
+todos <command>
 
   commands can be:
 
