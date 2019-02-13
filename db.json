@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "Learn React",
+      "complete": true
+    },
+    {
+      "title": "Learn Python",
+      "complete": true
+    },
+    {
+      "title": "Learn Node",
+      "complete": false
+    }
+  ]
+}
